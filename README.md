@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 About Me
-```js
+
 const sakshi = {
   location: "Goa, India",
   interests: ["AI and Web development"],
