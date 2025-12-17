@@ -14,13 +14,13 @@
 
 ---
 
-## 🎓 Academic Excellence
+##  Academic Excellence
 - **B.E. Computer Engineering**
 - Final Year Student
-- CGPA: 8.28/ 0
+- CGPA: 8.28/ 10
 ---
 
-## 🧠 About Me
+##  About Me
 ```js
 const sakshi = {
   location: "Goa, India",
@@ -31,7 +31,7 @@ const sakshi = {
 ```
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###  Programming Languages
 <p>
@@ -53,7 +53,7 @@ const sakshi = {
   <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
 
-### 🛠 Tools
+###  Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,vscode" />
 </p>
