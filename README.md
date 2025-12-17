@@ -32,17 +32,17 @@ const sakshi = {
 
 ## 🛠 Tech Stack
 
-###  Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
 </p>
 
-##  Frontend
+### ⚛️ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-##  AI / ML
+### 🧠 AI / ML
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge" />
@@ -53,7 +53,7 @@ const sakshi = {
   <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
 
-##  Tools
+### 🛠 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
