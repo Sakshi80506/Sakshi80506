@@ -3,7 +3,7 @@
 <h3 align="center">AI & Web Developer | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src=""C:\Users\saksh\Desktop\sakshi\Profile_pic.jpeg"" width="180" style="border-radius:50%" />
+  <img src="" width="180" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ---
 
-## 🎓 Academic 
+## 🎓 Academic Excellence
 - **B.E. Computer Engineering**
 - Final Year Student
-
+- CGPA: 8.28/ 0
 ---
 
 ## 🧠 About Me
