@@ -19,7 +19,7 @@
 - Final Year Student
 - CGPA: 8.28/ 0
 ---
-
+<p>
 ## 🧠 About Me
 ```js
 const sakshi = {
@@ -28,7 +28,9 @@ const sakshi = {
   currentlyLearning: ["Deep Learning", "FastAPI", "React.js"],
   
 };
-## 🛠 Tech Stack
+</p>
+<p>
+  ## 🛠 Tech Stack
 
 ### Languages & Frameworks
 <p>
@@ -37,5 +39,7 @@ const sakshi = {
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode" />
+</p>
+
 </p>
