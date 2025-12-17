@@ -21,40 +21,40 @@
 ---
 
 ## 🧠 About Me
-
+```js
 const sakshi = {
   location: "Goa, India",
   interests: ["AI and Web development"],
   currentlyLearning: ["Deep Learning", "FastAPI", "React.js"],
   
 };
+```
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
 </p>
 
-### ⚛️ Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### 🧠 AI / ML
+###  AI / ML
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge" />
 </p>
 
-### 🗄 Backend & Databases
+###  Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,mysql,firebase" />
 </p>
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode" />
 </p>
 
