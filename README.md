@@ -28,3 +28,14 @@ const sakshi = {
   currentlyLearning: ["Deep Learning", "FastAPI", "React.js"],
   
 };
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,react.js,fastapi,html,css,mysql,firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode" />
+</p>
