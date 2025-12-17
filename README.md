@@ -29,17 +29,16 @@ const sakshi = {
   
 };
 </p>
-<p>
+---
   ## 🛠 Tech Stack
 
-### Languages & Frameworks
+## Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,react.js,fastapi,html,css,mysql,firebase" />
 </p>
 
-### Tools
+## Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,vscode" />
 </p>
 
-</p>
