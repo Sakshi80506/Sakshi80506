@@ -14,7 +14,7 @@
 ##  Academic Excellence
 - **B.E. Computer Engineering**
 - Final Year Student
-- CGPA: 8.28/ 10
+- CGPA: 8.26/ 10
 ---
 
 ##  About Me
@@ -22,7 +22,7 @@
 const sakshi = {
   location: "Goa, India",
   interests: ["AI and Web development"],
-  currentlyLearning: ["Deep Learning", "FastAPI", "React.js"],
+  currentlyLearning: ["Deep Learning", "FastAPI", "React.js",AWS],
   
 };
 ```
