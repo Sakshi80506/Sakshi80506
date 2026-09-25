@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sakshi Kamble</h1>
-<h3 align="center">AI & Web Developer | Computer Engineering Student</h3>
+<h3 align="center">AI, Web Developer and Fullstack Developer | Computer Engineering Graduate</h3>
 
 
 <p align="center">
@@ -12,9 +12,8 @@
 ---
 
 ##  Academic Excellence
-- **B.E. Computer Engineering**
-- Final Year Student
-- CGPA: 8.26/ 10
+- **Computer Engineering**
+- CGPA: 8.24/ 10
 ---
 
 ##  About Me
